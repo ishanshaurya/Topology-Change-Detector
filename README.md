@@ -1,6 +1,6 @@
 # Topology Change Detector
 
-A real-time network topology monitor built for PES University (Assignment #21). Detects when devices go up or down on a local network, updates a live topology map, and logs every change with a timestamp.
+A real-time network topology monitor. Detects when devices go up or down on a local network, updates a live topology map, and logs every change with a timestamp.
 
 Built with Python 3 and plain HTML/CSS/JS. No external libraries or pip installs required.
 
